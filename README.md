@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a Aspirent Data Analyst.
+I have learnet Power BI, Tableau, Advance Excel.
+and currently learning Python.
 
 <!--
 **AngadKannaujiya/AngadKannaujiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

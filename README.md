@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Aspirent Data Analyst.
+I'm a Aspirant Data Analyst.
 I have learnet Power BI, Tableau, Advance Excel.
 and currently learning Python.
 
